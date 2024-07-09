@@ -99,7 +99,7 @@ services:
 ### 2.2. Start the Nginx Proxy Manager
 
 ```bash
-docker-compose up -d
+docker compose up -d
 ```
 
 ## 3. Login to the web UI of NGINX proxy manager
